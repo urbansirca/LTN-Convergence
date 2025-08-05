@@ -1,1 +1,1 @@
-# neuralsymbolic AI
+# neurosymbolic AI
